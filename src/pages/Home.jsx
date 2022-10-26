@@ -6,10 +6,10 @@ const Home = () => {
         <Box className="home" display="flex" width="100%" alignItems="center" justifyContent="center">
             <Box className="wrapper">
                 <Box className="glow" data-text="Glow">
-                    Web3.0 Voting App
+                    2028 President?
                 </Box>
                 <Box className="glow-shadow" aria-hidden="true">
-                    Welcome
+                    Mardz
                 </Box>
             </Box>
         </Box>
